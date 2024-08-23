@@ -29,12 +29,11 @@
 ![image](https://github.com/user-attachments/assets/a09fee3b-7288-4e32-b906-a5246c0b7ddc)
 ---
 ## 이번량 분석
-- **X: 업종별(학원) -> Y: 정류장수**
-
-![image](https://github.com/user-attachments/assets/a18ecbea-1f4e-4d67-917c-a64cdd2e1665)
+- **X: 자치구 -> Y: 이동인구**
+![image](https://github.com/user-attachments/assets/b8187a56-0d3b-4b90-ab59-e509f68d62c7)
 ---
-- **X: 정류장 수 -> Y: 노선 수**
-![image](https://github.com/user-attachments/assets/dead982d-cbde-4d23-b7d8-7a0447f86ab6)
+- **X: 자치구 -> Y: 노선 수**
+![image](https://github.com/user-attachments/assets/f474f29d-3e0a-46d9-90be-aff5c0484baf)
 ---
 - **X: 인구대비 이동인구 비율 -> Y: 노선 수**
 ![image](https://github.com/user-attachments/assets/abc7237d-6292-47d5-af3e-7c706142e96e)
